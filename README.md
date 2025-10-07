@@ -1,4 +1,4 @@
-# Sanke-game..
+# Snake-game..
 The Classic Snake Game in Python was made using OOPs and the turtle module.
 
 The Classic Snake Game implemented in Python using Object-Oriented Programming (OOP) and the turtle module provides a graphical interface and game logic. This approach leverages the turtle module for drawing the game elements like the snake and food, and OOP principles to structure the code into reusable components.
